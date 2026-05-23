@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./bio.jpg" width="100%" />
+</p>
+
 # Hi, I'm Anand Maurya 👋
 
 Software engineer building backend, IoT, and edge AI systems with Java, Spring Boot, Linux, and Docker.
