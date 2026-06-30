@@ -4,9 +4,11 @@
   <img src="./bio.jpg" width="100%" />
 </p>
 
-# Hi, I'm Anand Maurya 👋
+# Hi, I'm Anand Kumar Maurya 👋
 
-Software engineer building backend, IoT, and edge AI systems with Java, Spring Boot, Linux, and Docker.
+AI-focused IoT, Edge AI, and Backend Engineer building intelligent systems across hardware, backend platforms, local AI, and self-hosted infrastructure.
+
+I work with Java, Spring Boot, Linux, Docker, MQTT, Proxmox, edge devices, and local LLMs to build practical engineering solutions for industrial automation, IoT platforms, backend microservices, AI-assisted infrastructure, and real-world device communication systems.
 
 <a href="https://github.com/anand34577">
   <img src="https://img.shields.io/github/followers/anand34577?label=Followers&style=social" />
@@ -24,9 +26,13 @@ Software engineer building backend, IoT, and edge AI systems with Java, Spring B
 
 ## About me
 
-I’m a software engineer with experience across backend development, IoT systems, DevOps, and embedded Linux. My work often sits at the intersection of hardware and software, where I build efficient and reliable systems for real-world use cases.
+I’m a IoT engineer with 4+ years of experience across backend development, IoT systems, industrial automation, DevOps, and embedded Linux. My work often sits at the intersection of hardware, backend services, edge devices, and AI-powered automation.
 
-I’m particularly interested in edge AI, local inference, automation, and self-hosted infrastructure. I enjoy working on problems that require practical engineering, clean architecture, and performance-minded implementation.
+I have worked on systems such as gate automation, real-time container tracking using DGPS, weighbridge automation, warehouse automation, document digitalization using OCR, device tracking platforms, custom role-based access control systems, notification services, and payment gateway integrations.
+
+I’m currently focused on Edge AI, Agentic AI, Spring AI, MCP servers, local LLMs, self-hosted infrastructure, and intelligent IoT/backend platforms. I enjoy building systems that are reliable, secure, observable, and practical enough to run in real-world environments.
+
+My personal homelab includes Raspberry Pi, Radxa Rockchip NPU devices, Proxmox-based SBC clusters, TrueNAS, OpenWrt, and a Mac mini for local LLM workloads.
 
 ## Core strengths
 
