@@ -75,6 +75,7 @@ Arduino • Raspberry Pi • STM32 • Luckfox Pico • Radxa
 - Portfolio: [anandmaurya.in](https://anandmaurya.in)
 - Blog: [anandmaurya.in/blog](https://anandmaurya.in/blog)
 - GitHub: [anand34577](https://github.com/anand34577)
+- Medium: [medium.com/@anand34577](https://medium.com/@anand34577)
 
 ---
 
